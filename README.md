@@ -1,4 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&repeat=false&width=435&lines=I'm+grove.+)](https://git.io/typing-svg)
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=4000&pause=1000&center=true&repeat=false&width=600&lines=i'm+grove" alt="Typing SVG" /></a>
+</p>
+
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&repeat=false&width=600&lines=AI+Full-Stack+Developer." alt="Typing SVG" /></a>
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" />
+</p>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&repeat=false&width=600&lines=AI+Full-Stack+Developer." alt="Typing SVG" /></a>
+</p>
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=1000&repeat=false&width=600&lines=AI+Full-Stack+Developer.)](https://git.io/typing-svg)
 
